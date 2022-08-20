@@ -1,0 +1,13 @@
+C:\Users\AlMahdi\source\repos\AcceptFinitAutomata\AcceptFinitAutomata\bin\Debug\netcoreapp3.1\AcceptFinitAutomata.exe
+C:\Users\AlMahdi\source\repos\AcceptFinitAutomata\AcceptFinitAutomata\bin\Debug\netcoreapp3.1\AcceptFinitAutomata.deps.json
+C:\Users\AlMahdi\source\repos\AcceptFinitAutomata\AcceptFinitAutomata\bin\Debug\netcoreapp3.1\AcceptFinitAutomata.runtimeconfig.json
+C:\Users\AlMahdi\source\repos\AcceptFinitAutomata\AcceptFinitAutomata\bin\Debug\netcoreapp3.1\AcceptFinitAutomata.runtimeconfig.dev.json
+C:\Users\AlMahdi\source\repos\AcceptFinitAutomata\AcceptFinitAutomata\bin\Debug\netcoreapp3.1\AcceptFinitAutomata.dll
+C:\Users\AlMahdi\source\repos\AcceptFinitAutomata\AcceptFinitAutomata\bin\Debug\netcoreapp3.1\AcceptFinitAutomata.pdb
+C:\Users\AlMahdi\source\repos\AcceptFinitAutomata\AcceptFinitAutomata\obj\Debug\netcoreapp3.1\AcceptFinitAutomata.csproj.AssemblyReference.cache
+C:\Users\AlMahdi\source\repos\AcceptFinitAutomata\AcceptFinitAutomata\obj\Debug\netcoreapp3.1\AcceptFinitAutomata.AssemblyInfoInputs.cache
+C:\Users\AlMahdi\source\repos\AcceptFinitAutomata\AcceptFinitAutomata\obj\Debug\netcoreapp3.1\AcceptFinitAutomata.AssemblyInfo.cs
+C:\Users\AlMahdi\source\repos\AcceptFinitAutomata\AcceptFinitAutomata\obj\Debug\netcoreapp3.1\AcceptFinitAutomata.csproj.CoreCompileInputs.cache
+C:\Users\AlMahdi\source\repos\AcceptFinitAutomata\AcceptFinitAutomata\obj\Debug\netcoreapp3.1\AcceptFinitAutomata.dll
+C:\Users\AlMahdi\source\repos\AcceptFinitAutomata\AcceptFinitAutomata\obj\Debug\netcoreapp3.1\AcceptFinitAutomata.pdb
+C:\Users\AlMahdi\source\repos\AcceptFinitAutomata\AcceptFinitAutomata\obj\Debug\netcoreapp3.1\AcceptFinitAutomata.genruntimeconfig.cache
